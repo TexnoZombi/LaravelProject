@@ -1,3 +1,8 @@
+# adSiteLaravelProject
+# Сайт объявлений создан в целях финального проекта для его последующей защиты.
+# Реализовано добавление, удаление, изменение самих объявлений. 
+# Есть поиск по заголовкам, добавление изображений в объявление по желанию, а также имеется функционал по ограничению прав пользователей.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
